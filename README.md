@@ -69,9 +69,9 @@ All possible efforts have been taken to limit the amount of dependencies by util
 
 Or, if you are lazy, just copy paste the following :P
 ```
-git clone https://github.com/gokulp01/halo
-cp halo/* ~/.config/awesome
-rm -rf halo  
+git clone https://github.com/gokulp01/aureole
+cp aureole/* ~/.config/awesome
+rm -rf aureole  
 cd ~/.config/awesome
 mv rofi ../
 ```
