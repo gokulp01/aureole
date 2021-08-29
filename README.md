@@ -1,5 +1,5 @@
 # aureole
-An awesome Awesomewm rice (also my first)
+An awesome Awesomewm rice 
 
 ![](screenshots/ss2.png) 
 
