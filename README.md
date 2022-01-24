@@ -64,7 +64,9 @@ All possible efforts have been taken to limit the amount of dependencies by util
 ## Installation ##
 1. Ensure all [dependencies](#dependencies) are met
 2. Clone this repository and place its contents as follows:
+
    a. all the files other than the `rofi` folder goes into the `awesome` folder which is present in your .config
+   
    b. place the contents of `rofi` into your `rofi` folder(generally located in `~/.config`
 
 Or, if you are lazy, just copy paste the following :P
